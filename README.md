@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naval</h1>
-<h3 align="center"> An aspiring developer from New Jersey, USA </h3>
+<h3 align="center"> Developer from New Jersey, USA </h3>
 
 - 🌱 I’m currently learning **Java, ReactJS**
 - 📫 Reach me at: **navalmaulikshah@gmail.com**
