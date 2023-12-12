@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naval</h1>
 <h3 align="center"> Developer from New Jersey, USA </h3>
 
-- 🌱 I’m currently learning **Java, ReactJS**
+- 🌱 I’m currently learning **Java, MERN Stack(JS), Django, **
 - 📫 Reach me at: **navalmaulikshah@gmail.com**
 
  <h3 align="left">Connect with me :)</h3>
