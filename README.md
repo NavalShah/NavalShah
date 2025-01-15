@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naval Shah</h1>
 <h3 align="center">A passionate full-stack developer from New Jersey, USA</h3>
 
-- 🌱 I’m currently learning **NextJS, Python Libraries, ExpressJS**
+- 🌱 I’m currently learning **NextJS, Deep Learning, Natural Language Processing**
 
 - 📫 How to reach me **navalmaulikshah@gmail.com**
 
